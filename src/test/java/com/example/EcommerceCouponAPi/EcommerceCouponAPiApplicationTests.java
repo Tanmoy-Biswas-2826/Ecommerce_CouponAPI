@@ -8,7 +8,6 @@ class EcommerceCouponAPiApplicationTests {
 
 	@Test
 	void contextLoads() {
-		System.out.println("HEllo World");
 	}
 
 }
